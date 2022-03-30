@@ -1,0 +1,4 @@
+1. Create a function that takes a sentence as input and outputs it in reverse order. For example if I enter the sentence
+a) Where need is greatest should be greatest is need where
+b) Simplicity is genius should be genius is simplicity
+Hint: You can use a stack data structure.
